@@ -1,2 +1,2 @@
-> \_[!NOTE]
+> [!NOTE]
 > Esto es una nota
